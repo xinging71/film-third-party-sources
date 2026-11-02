@@ -1,0 +1,1027 @@
+[
+  {
+    "path": "Engine/include/spektrafilm/spk_engine.h",
+    "local_reference_present": true,
+    "identical_to_local_reference": false
+  },
+  {
+    "path": "Engine/src/core/blob.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/blob.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/cam16.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/cam16.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/camera_filters.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/colour.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/colour.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/curves.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/curves.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/digital_intermediate.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/digital_intermediate.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/file_path.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/halation_psf.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/hanatos.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/hanatos.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/json.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/json.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/latitude_fit.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/latitude_fit.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/numeric.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/numeric.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/params.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/params.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/print_lut.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/print_lut.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/printing.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/printing.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/profile.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/profile.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/setup_cache.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/setup_cache.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/spectral.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/core/spectral.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/desktop/preview_host.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/desktop/preview_host.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/desktop/viewport.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/gpu/gpu.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/gpu/metal_gpu.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/gpu/metal_impl.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/gpu/vulkan_gpu.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/io/image_writer.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/io/image_writer.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/io/raw_decoder.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/io/raw_decoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/io/raw_headroom.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/io/raw_headroom.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/blur.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/blur.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/contrast_mask.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/engine.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": false
+  },
+  {
+    "path": "Engine/src/pipeline/image.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/overscan.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": false
+  },
+  {
+    "path": "Engine/src/pipeline/pipeline.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/pipeline.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": false
+  },
+  {
+    "path": "Engine/src/pipeline/scene_latitude.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/strip.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/timer.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/windows_unported.cpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/pipeline/windows_unported.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/blur.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/contrast_mask.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/gamut.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/grain.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/nodes.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/overscan.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": false
+  },
+  {
+    "path": "Engine/src/shaders/scene_latitude.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/spk_common.h",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/util.metal",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_affine3.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_boost.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_bw_correct.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_cam16ucs_compress.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_cctf_decode.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_cctf_encode_matrix.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_couplers_correction.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_curves.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_di_normalise.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_edr.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_geometry_resample_df.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_glare_add.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_grain_layer_one.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_grain_layers.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_grain_simple.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_iir_df_acc.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_lincomb3.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_log10_guarded.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_lognormal_field.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_lut2d_cubic.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_lut3d_trilinear.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_math_probe.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_matmul3.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_mul.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_print_exposure.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_reduce_max.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_rng.glsl",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_rng_probe.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_sep_fir_acc.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_spectral_epilogue.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_stride_sample.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_take_rgb.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_tc_b.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_to_rgba16.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/src/shaders/vulkan/spk_zoom_bilinear_mirror.comp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/README.md",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/Foundation.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSArray.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSAutoreleasePool.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSBundle.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSData.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSDate.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSDefines.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSDictionary.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSEnumerator.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSError.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSLock.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSNotification.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSNumber.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSObjCRuntime.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSObject.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSPrivate.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSProcessInfo.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSRange.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSSet.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSSharedPtr.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSString.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSTypes.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Foundation/NSURL.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/LICENSE.txt",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLAccelerationStructure.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLAccelerationStructureCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLAccelerationStructureTypes.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLAllocation.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLArgument.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLArgumentEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLBinaryArchive.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLBlitCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLBlitPass.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLBuffer.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLCaptureManager.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLCaptureScope.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLCommandBuffer.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLCommandQueue.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLComputeCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLComputePass.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLComputePipeline.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLCounters.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLDefines.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLDepthStencil.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLDevice.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLDrawable.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLDynamicLibrary.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLEvent.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLFence.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLFunctionConstantValues.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLFunctionDescriptor.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLFunctionHandle.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLFunctionLog.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLFunctionStitching.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLHeaderBridge.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLHeap.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLIOCommandBuffer.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLIOCommandQueue.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLIOCompressor.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLIndirectCommandBuffer.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLIndirectCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLIntersectionFunctionTable.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLLibrary.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLLinkedFunctions.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLLogState.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLParallelRenderCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLPipeline.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLPixelFormat.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLPrivate.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLRasterizationRate.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLRenderCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLRenderPass.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLRenderPipeline.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLResidencySet.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLResource.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLResourceStateCommandEncoder.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLResourceStatePass.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLSampler.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLStageInputOutputDescriptor.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLTexture.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLTypes.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLVersion.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLVertexDescriptor.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/MTLVisibleFunctionTable.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/Metal/Metal.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/QuartzCore/CADefines.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/QuartzCore/CAMetalDrawable.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/QuartzCore/CAMetalLayer.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/QuartzCore/CAPrivate.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/QuartzCore/QuartzCore.hpp",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/README.md",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/metal-cpp/SingleHeader/MakeSingleHeader.py",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/stb/LICENSE",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/stb/stb_image.h",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/stb/stb_image_write.h",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/stb/stb_truetype.h",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/volk/LICENSE.md",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/volk/volk.c",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  },
+  {
+    "path": "Engine/third_party/volk/volk.h",
+    "local_reference_present": true,
+    "identical_to_local_reference": true
+  }
+]

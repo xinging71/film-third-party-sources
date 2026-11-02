@@ -1,0 +1,70 @@
+[
+  {
+    "id": "kodak_colorplus_200_new",
+    "name": "Kodak ColorPlus 200 · 实验性近似（new）",
+    "base": "kodak_gold_200",
+    "adjustments": {
+      "density_channel_scales": [
+        0.94,
+        0.95,
+        0.94
+      ],
+      "log_sensitivity_offsets": [
+        0.025,
+        0,
+        -0.025
+      ]
+    }
+  },
+  {
+    "id": "fujifilm_400_new",
+    "name": "Fujifilm 400 · 版本待核实／近似（new）",
+    "base": "fujifilm_xtra_400",
+    "adjustments": {
+      "density_channel_scales": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "log_sensitivity_offsets": [
+        0,
+        0.02,
+        -0.01
+      ]
+    }
+  },
+  {
+    "id": "fujicolor_100_new",
+    "name": "Fujicolor 100 · 实验性近似（new）",
+    "base": "fujifilm_c200",
+    "adjustments": {
+      "density_channel_scales": [
+        1.02,
+        1.02,
+        1.02
+      ],
+      "log_sensitivity_offsets": [
+        0,
+        0.01,
+        0
+      ]
+    }
+  },
+  {
+    "id": "alien_nc400_new",
+    "name": "Alien Film NC400 · 实验性近似（new）",
+    "base": "fujifilm_xtra_400",
+    "adjustments": {
+      "density_channel_scales": [
+        0.9,
+        0.94,
+        0.9
+      ],
+      "log_sensitivity_offsets": [
+        -0.015,
+        0.025,
+        0.01
+      ]
+    }
+  }
+]

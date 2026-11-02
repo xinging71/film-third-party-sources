@@ -1,0 +1,230 @@
+[
+  {
+    "path": "Materials/Engine/profiles/alien_nc400_new.json",
+    "matches_local_inherited_profile": false,
+    "reference_path": null,
+    "status": "locally modified/added; do not describe as original measured data"
+  },
+  {
+    "path": "Materials/Engine/profiles/cinestill_800t.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources_product/profiles/cinestill_800t.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujicolor_100_new.json",
+    "matches_local_inherited_profile": false,
+    "reference_path": null,
+    "status": "locally modified/added; do not describe as original measured data"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_400_new.json",
+    "matches_local_inherited_profile": false,
+    "reference_path": null,
+    "status": "locally modified/added; do not describe as original measured data"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_c200.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/fujifilm_c200.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_crystal_archive_typeii.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/fujifilm_crystal_archive_typeii.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_neopan_acros_100_ii.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources_product/profiles/fujifilm_neopan_acros_100_ii.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_pro_400h.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/fujifilm_pro_400h.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_provia_100f.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/fujifilm_provia_100f.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_velvia_100.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/fujifilm_velvia_100.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/fujifilm_xtra_400.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/fujifilm_xtra_400.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/ilford_hp5_plus_400.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources_product/profiles/ilford_hp5_plus_400.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/ilford_multigrade_iv_rc.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources_product/profiles/ilford_multigrade_iv_rc.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_2383.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_2383.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_2393.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_2393.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_colorplus_200_new.json",
+    "matches_local_inherited_profile": false,
+    "reference_path": null,
+    "status": "locally modified/added; do not describe as original measured data"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_ektachrome_100.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_ektachrome_100.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_ektacolor_edge.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_ektacolor_edge.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_ektar_100.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_ektar_100.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_endura_premier.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_endura_premier.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_gold_200.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_gold_200.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_kodachrome_64.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_kodachrome_64.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_portra_160.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_portra_160.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_portra_400.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_portra_400.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_portra_800.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_portra_800.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_portra_800_push1.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_portra_800_push1.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_portra_800_push2.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_portra_800_push2.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_portra_endura.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_portra_endura.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_supra_endura.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_supra_endura.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_tmax_100.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources_product/profiles/kodak_tmax_100.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_tri_x_400.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources_product/profiles/kodak_tri_x_400.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_ultra_endura.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_ultra_endura.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_ultramax_400.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_ultramax_400.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_verita_200d.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_verita_200d.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_vision3_200t.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_vision3_200t.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_vision3_250d.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_vision3_250d.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_vision3_500t.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_vision3_500t.json",
+    "status": "inherited local snapshot"
+  },
+  {
+    "path": "Materials/Engine/profiles/kodak_vision3_50d.json",
+    "matches_local_inherited_profile": true,
+    "reference_path": "engine/resources/profiles/kodak_vision3_50d.json",
+    "status": "inherited local snapshot"
+  }
+]

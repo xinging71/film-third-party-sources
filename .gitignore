@@ -1,0 +1,14 @@
+.DS_Store
+build/
+*.air
+*.metallib
+*.o
+*.a
+*.dSYM/
+*.xcarchive/
+*.ipa
+*.mobileprovision
+*.p12
+*.p8
+*.key
+.env*
